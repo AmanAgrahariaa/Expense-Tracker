@@ -1,0 +1,27 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+.content{
+  height:100vh;
+}
+
+.register-page{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+}
+
+/* transection page */
+.filters{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 20px;
+  box-shadow: 0 0 3px;
+}
+
+

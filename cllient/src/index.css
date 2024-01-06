@@ -1,0 +1,20 @@
+.anticon svg{
+    font-size: 20px;
+    cursor: pointer;
+  }
+  
+  .active-icon{
+    color: black;
+  }
+  
+  .inactive-icon{
+    color: grey;
+  }
+  
+  .switch-icons{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px 15px;
+  
+  }
+  
